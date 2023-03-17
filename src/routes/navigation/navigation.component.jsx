@@ -1,5 +1,5 @@
 import { Outlet, Link } from "react-router-dom";
-import { ReactComponent as JpnLogo } from "../../assets/jpn.svg";
+import JpnLogo from "../../assets/jpn-logo.component";
 import "./navigation.styles.scss";
 const Navigation = () => {
   return (
