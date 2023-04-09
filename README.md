@@ -1,6 +1,7 @@
 # Project Desc
 
 Clothing store project from https://www.udemy.com/course/complete-react-developer-zero-to-mastery/ tutorial.
+Initial version, coding from the ground up.
 
 # Project preview
 
